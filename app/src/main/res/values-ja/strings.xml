@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">モバイルコース</string>
+    <string name="text_name">Name User</string>
+    <string name="text_lastname">Last Name User</string>
+    <string name="hint_lastname">Your Last Name</string>
+    <string name="text_username">ユーザー名</string>
+    <string name="text_password">パスワード</string>
+    <string name="hint_password">あなたのパスワード</string>
+    <string name="txt_welcome">Welcome</string>
+    <string name="text_menu">MAIN MENU</string>
+    <string name="user">Jairo</string>
+    <string name="txt_introduction">Introduction</string>
+    <string name="lorem_ipsum">This is the summarize</string>
+    <string name="txt_class1">Class1</string>
+    <string name="txt_action_search">Search</string>
+    <string name="txt_action_settings">Search</string>
+    <string name="txt_action_logout">Logout</string>
+    <string name="txt_fab">Logout</string>
+</resources>

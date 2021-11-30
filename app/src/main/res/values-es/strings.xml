@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Proyecto SaberPro G1</string>
+    <string name="text_name">Nombre de Usuario</string>
+    <string name="text_lastname">Apellido del Usuario</string>
+    <string name="hint_lastname">Apellido del Usuario</string>
+    <string name="text_username">Nombre de Usuario</string>
+    <string name="text_password">Contraseña</string>
+    <string name="hint_password">Tu contraseña</string>
+    <string name="txt_welcome">Bienvenido</string>
+    <string name="text_menu">MENU PRINCIPAL</string>
+    <string name="user">Jairo</string>
+    <string name="txt_introduction">Introducción</string>
+    <string name="lorem_ipsum">Este es el resumen</string>
+    <string name="txt_class1">Clase1</string>
+    <string name="txt_action_search">Busqueda</string>
+    <string name="txt_action_settings">Configuración</string>
+    <string name="txt_action_logout">Cerrar</string>
+    <string name="txt_fab">Elemento adicionado</string>
+</resources>
