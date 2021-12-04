@@ -47,13 +47,14 @@
             android:layout_height="wrap_content"
             android:text="@string/text_name"
             android:textColor="@color/black"
-            android:textSize="25sp"/>
+            android:textSize="20sp"/>
 
         <EditText
             android:id="@+id/edtName"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:hint="name user"/>
+            android:hint="name user"
+            tools:ignore="TouchTargetSizeCheck" />
 
         <TextView
             android:layout_width="wrap_content"
@@ -61,26 +62,28 @@
             android:text="@string/text_lastname"
             android:textColor="@color/black"
             android:layout_marginTop="25dp"
-            android:textSize="25sp"/>
+            android:textSize="20sp"/>
 
         <EditText
             android:id="@+id/edtLastname"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:hint="@string/hint_lastname"/>
+            android:hint="@string/hint_lastname"
+            tools:ignore="TouchTargetSizeCheck" />
 
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="@string/text_username"
             android:textColor="@color/black"
-            android:textSize="25sp"/>
+            android:textSize="20sp"/>
 
         <EditText
             android:id="@+id/edtUsername"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:hint="email@domain.com"/>
+            android:hint="email@domain.com"
+            tools:ignore="TouchTargetSizeCheck" />
 
         <TextView
             android:layout_width="wrap_content"
@@ -88,13 +91,14 @@
             android:text="@string/text_password"
             android:textColor="@color/black"
             android:layout_marginTop="25dp"
-            android:textSize="25sp"/>
+            android:textSize="20sp"/>
 
         <EditText
             android:id="@+id/edtPassword"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:hint="@string/hint_password"/>
+            android:hint="@string/hint_password"
+            tools:ignore="TouchTargetSizeCheck" />
 
         <Button
             android:id="@+id/btnRegister"

@@ -77,7 +77,7 @@ class MainActivity : AppCompatActivity() {
         Toast.makeText(applicationContext,"WELCOME",Toast.LENGTH_LONG).show()
     }
 
-    fun onQuestion(botonQuestion: android.view.View) {
+    /*fun onQuestion(botonQuestion: android.view.View) {
         val positiveButton = { dialog: DialogInterface, which: Int ->
             val intento = Intent(this, QuestionActivity::class.java)
             startActivity(intento)
@@ -95,9 +95,9 @@ class MainActivity : AppCompatActivity() {
 
         // Con Toast
         Toast.makeText(applicationContext,"QUESTION",Toast.LENGTH_LONG).show()
-    }
+    }*/
 
-    fun onEvaluation(botonEvaluation: android.view.View) {
+/*    fun onEvaluation(botonEvaluation: android.view.View) {
         val positiveButton = { dialog: DialogInterface, which: Int ->
             val intento = Intent(this, EvaluationActivity::class.java)
             startActivity(intento)
@@ -155,7 +155,7 @@ class MainActivity : AppCompatActivity() {
 
         // Con Toast
         Toast.makeText(applicationContext,"UNIVERSITY",Toast.LENGTH_LONG).show()
-    }
+    }*/
 
     override fun onCreateOptionsMenu(menu: Menu?): Boolean {
         menuInflater.inflate(R.menu.menu_main_activity, menu)

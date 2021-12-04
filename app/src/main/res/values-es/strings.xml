@@ -16,4 +16,16 @@
     <string name="txt_action_settings">Configuración</string>
     <string name="txt_action_logout">Cerrar</string>
     <string name="txt_fab">Elemento adicionado</string>
+    <string name="question">Pregunta</string>
+    <string name="hint_question">Escriba su pregunta</string>
+    <string name="answer">Respuesta</string>
+    <string name="hint_answer">Escriba la respuesta correcta</string>
+    <string name="text_option1">Opcion 1</string>
+    <string name="hint_option1">Escriba la primera respuesta incorrecta</string>
+    <string name="text_option2">Opcion 2</string>
+    <string name="hint_option2">Escriba la segunda respuesta incorrecta</string>
+    <string name="text_option3">Opcion 3</string>
+    <string name="hint_option3">Escriba la tercera respuesta incorrecta</string>
+    <string name="text_subject">Asignatura</string>
+    <string name="hint_subject">Escriba la asignatura correspondiente</string>
 </resources>

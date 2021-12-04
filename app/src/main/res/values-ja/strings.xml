@@ -16,4 +16,16 @@
     <string name="txt_action_settings">Search</string>
     <string name="txt_action_logout">Logout</string>
     <string name="txt_fab">Logout</string>
+    <string name="question">Question</string>
+    <string name="hint_question">Write your question</string>
+    <string name="answer">Question</string>
+    <string name="hint_answer">Write your correct answer</string>
+    <string name="text_option1">Option 1</string>
+    <string name="hint_option1">Write your incorrect answer 1</string>
+    <string name="text_option2">Option 2</string>
+    <string name="hint_option2">Write your incorrect answer 2</string>
+    <string name="text_option3">Option 3</string>
+    <string name="hint_option3">Write your incorrect answer 3</string>
+    <string name="text_subject">Subject</string>
+    <string name="hint_subject">Write the corresponding subject</string>
 </resources>
