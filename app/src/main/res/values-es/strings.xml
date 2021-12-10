@@ -17,6 +17,8 @@
     <string name="txt_action_logout">Cerrar</string>
     <string name="txt_fab">Elemento adicionado</string>
     <string name="question">Pregunta</string>
+    <string name="university">Busque la página de una Universidad</string>
+    <string name="logic">Seleccione el juego lógico que desee</string>
     <string name="hint_question">Escriba su pregunta</string>
     <string name="answer">Respuesta</string>
     <string name="hint_answer">Escriba la respuesta correcta</string>
@@ -28,4 +30,19 @@
     <string name="hint_option3">Escriba la tercera respuesta incorrecta</string>
     <string name="text_subject">Asignatura</string>
     <string name="hint_subject">Escriba la asignatura correspondiente</string>
+
+
+    <string name="check">Check</string>
+    <string name="correct">Very good!</string>
+    <string name="incorrect">Incorrect...</string>
+    <string name="next">Next</string>
+    <string name="finish">Finish</string>
+    <string name="prev">Previous</string>
+
+    <array name="all_questions">
+        <item>Cúal es la capital de España?;Lisboa;Paris;*Madrid;Roma</item>
+        <item>Qué es un electrón?;Carga positiva;*Carga negativa;Carga neutra;Carga química</item>
+        <item>Cúal es la raiz cuadrada de 25?;4;*5;2;3</item>
+    </array>
+
 </resources>

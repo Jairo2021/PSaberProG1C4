@@ -71,7 +71,7 @@ class MenuActivity : AppCompatActivity() {
         dialog.show()
 
         // Con Toast
-        Toast.makeText(applicationContext,"LOGIC",Toast.LENGTH_LONG).show()
+        Toast.makeText(applicationContext,"SELECT A LOGIC GAME",Toast.LENGTH_LONG).show()
     }
 
     fun onUniversity(botonUniversity: android.view.View) {
@@ -91,7 +91,7 @@ class MenuActivity : AppCompatActivity() {
         dialog.show()
 
         // Con Toast
-        Toast.makeText(applicationContext,"UNIVERSITY",Toast.LENGTH_LONG).show()
+        Toast.makeText(applicationContext,"SELECT WEB PAGE UNIVERSITY",Toast.LENGTH_LONG).show()
     }
 
 

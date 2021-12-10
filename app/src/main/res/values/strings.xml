@@ -18,6 +18,8 @@
     <string name="txt_action_logout">Logout</string>
     <string name="txt_fab">Element Added</string>
     <string name="question">Question</string>
+    <string name="university">Search Web Page University</string>
+    <string name="logic">Select the logic game you want</string>
     <string name="hint_question">Write your question</string>
     <string name="answer">Answer</string>
     <string name="hint_answer">Write your correct answer</string>
@@ -29,4 +31,19 @@
     <string name="hint_option3">Write your incorrect answer 3</string>
     <string name="text_subject">Subject</string>
     <string name="hint_subject">Write the corresponding subject</string>
+
+
+    <string name="check">Check</string>
+    <string name="correct">Very good!</string>
+    <string name="incorrect">Incorrect...</string>
+    <string name="next">Next</string>
+    <string name="finish">Finish</string>
+    <string name="prev">Previous</string>
+
+    <array name="all_questions">
+        <item>What is the capital of Spain?;Lisboa;Paris;*Madrid;Roma</item>
+        <item>What is the electrón?;Positive charge;*Negative charge;Neutral charge;Chemical charge</item>
+        <item>What is the square root of 25?;4;*5;2;3</item>
+    </array>
+
 </resources>

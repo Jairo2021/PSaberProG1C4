@@ -25,13 +25,17 @@
         <entry key="..\:/Users/jairo/AndroidStudioProjects/CursoMoviles1/app/src/main/res/layout/activity_main.xml" value="0.1" />
         <entry key="..\:/Users/jairo/AndroidStudioProjects/CursoMoviles1/app/src/main/res/layout/activity_welcome.xml" value="0.2" />
         <entry key="..\:/Users/jairo/AndroidStudioProjects/CursoMoviles1/app/src/main/res/menu/menu_main_activity.xml" value="0.18" />
-        <entry key="..\:/Users/jairo/AndroidStudioProjects/PSaberProG1C4/app/src/main/res/layout/activity_logic.xml" value="0.14628623188405798" />
+        <entry key="..\:/Users/jairo/AndroidStudioProjects/PSaberProG1C4/app/src/main/res/layout/activity_evaluation.xml" value="0.22" />
+        <entry key="..\:/Users/jairo/AndroidStudioProjects/PSaberProG1C4/app/src/main/res/layout/activity_logic.xml" value="0.22" />
         <entry key="..\:/Users/jairo/AndroidStudioProjects/PSaberProG1C4/app/src/main/res/layout/activity_main.xml" value="0.22" />
         <entry key="..\:/Users/jairo/AndroidStudioProjects/PSaberProG1C4/app/src/main/res/layout/activity_menu.xml" value="0.14628623188405798" />
         <entry key="..\:/Users/jairo/AndroidStudioProjects/PSaberProG1C4/app/src/main/res/layout/activity_question.xml" value="0.14628623188405798" />
         <entry key="..\:/Users/jairo/AndroidStudioProjects/PSaberProG1C4/app/src/main/res/layout/activity_register.xml" value="0.22" />
-        <entry key="..\:/Users/jairo/AndroidStudioProjects/PSaberProG1C4/app/src/main/res/layout/activity_university.xml" value="0.14628623188405798" />
+        <entry key="..\:/Users/jairo/AndroidStudioProjects/PSaberProG1C4/app/src/main/res/layout/activity_university.xml" value="0.25" />
         <entry key="..\:/Users/jairo/AndroidStudioProjects/PSaberProG1C4/app/src/main/res/layout/activity_welcome.xml" value="0.1" />
+        <entry key="..\:/Users/jairo/AndroidStudioProjects/PSaberProG1C4/app/src/main/res/layout/item_question.xml" value="0.5032894736842105" />
+        <entry key="..\:/Users/jairo/AndroidStudioProjects/PSaberProG1C4/app/src/main/res/menu/menu_main_activity.xml" value="0.1" />
+        <entry key="..\:/Users/jairo/AndroidStudioProjects/PSaberProG1C4/app/src/main/res/menu/question_menu.xml" value="0.1" />
       </map>
     </option>
   </component>
